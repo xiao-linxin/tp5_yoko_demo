@@ -1,0 +1,17 @@
+{
+    "name": "yoko/tp5_yoko_demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaolinxin",
+            "email": "616916526@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yoko\\": "src"
+        }
+    }
+}
