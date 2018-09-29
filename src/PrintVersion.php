@@ -16,4 +16,8 @@ class PrintVersion extends Command
     public function execute(Input $input, Output $output) {
         $output->write('current thinkphp5 version is:' . App::VERSION);
     }
+
+    public function a() {
+
+    }
 }
